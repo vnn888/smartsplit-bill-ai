@@ -1,0 +1,7 @@
+streamlit
+torch
+transformers
+sentencepiece
+Pillow
+groq
+python-dotenv
